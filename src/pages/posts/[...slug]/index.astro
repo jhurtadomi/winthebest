@@ -71,6 +71,7 @@ const {
   timezone,
   tags,
   hideEditPost,
+  heroImage,
 } = post.data;
 
 const { Content } = await render(post);
@@ -133,6 +134,16 @@ const ogImage = ogImageUrl
       </span>
       <EditPost {hideEditPost} {post} class="max-sm:hidden" />
     </div>
+
+    {
+      heroImage && (
+        <img
+          src={heroImage}
+          alt={title}
+          class="my-6 w-full rounded-lg object-cover"
+        />
+      )
+    }
 
     <article
       id="article"

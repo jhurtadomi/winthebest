@@ -1,37 +1,44 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "About Me"
+description: "Cybersecurity practitioner, pentester, and red teamer. Know more about Wintxx."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+# Whoami
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+I'm Jean, known as **Wintxx** or **IamWin** in the community. I'm a Systems Engineering student passionate about cybersecurity, pentesting, and red teaming. My ultimate goal in this field is to become OSCE3 certified, and with God's help, I will achieve it.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## Off the keyboard
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+When I'm not studying, you'll probably find me:
 
-## Features
+- Following **F1**, **UFC**, and everything related to **cars and motorcycles**.
+- Blasting rock music — huge fan of **Metallica**, **RHCP**, **SOAD**, **Nirvana**, and **Guns N' Roses**.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## Certifications
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+Presented in no particular order.
 
-and so much more.
+- Hack The Box Certified Penetration Testing Specialist (CPTS)
+- Altered Security Certified Red Team Professional (CRTP)
+- INE Security eLearn Junior Pentester (eJPT)
+- The SecOps Group Certified Active Directory Penetration Expert (C-ADPenX)
+- CyberWarfareLabs Certified Red Team Analyst (CRTA)
 
-## Show your support
+## CVE / Vulnerability Research
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+Security advisories I've been credited for as part of independent vulnerability research.
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+| ID | Severity | Product | Description |
+|----|----------|---------|-------------|
+| [GHSA-f4rj-vqq4-wvg4](https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-f4rj-vqq4-wvg4) | **Moderate** | Notepad++ ≤ v8.9.6.4 | `shortcuts.xml` Macro HMAC Bypass — enables conditional elevated command execution. Co-discovered with **Enrique de Clerck**. Patched in v8.9.7. |
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+## What will you find here?
 
-Kyay zuu! 🙏🏼
+On this blog, I'll be posting my machine writeups, certification exam experiences, research, tool articles, and more. My goal is to document my learning journey and share useful technical content with others who are passionate about this field.
+
+Thanks for stopping by. If anything I share helps you, it was worth it.
+
+---
+
+> *"Let no one ever come to you without leaving better and happier."*  
+> — Mother Teresa
