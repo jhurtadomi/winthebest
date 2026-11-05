@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Kitsune — HackSmarter Pro Labs"
 pubDatetime: 2026-10-22T16:30:00Z
 draft: false
@@ -741,3 +741,10 @@ The Kitsune attack chain precisely illustrates how multiple chained weaknesses l
 * Avoid storing `.cred` files or DPAPI credentials in shared locations.
 * Strictly limit membership in sensitive groups like `Backup Operators`.
 * Regularly audit and rotate gMSA account passwords.
+
+---
+
+> *"Remember to look up at the stars, not down at your feet."*
+>
+> — Stephen Hawking
+
